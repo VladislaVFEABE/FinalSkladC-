@@ -1,0 +1,14 @@
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\bin\Debug\Final.exe.config
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\bin\Debug\Final.exe
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\bin\Debug\Final.pdb
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.Form1.resources
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.exe
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.pdb
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.Register.resources
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.AllTovar.resources
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.Add_Tovar.resources
+C:\Users\Vladik\source\repos\Final Version Cursovoi\Final\obj\Debug\Final.Admin_Panel.resources
